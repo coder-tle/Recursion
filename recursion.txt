@@ -1,1 +1,2 @@
 Function calling itself is called recursive function.
+Tail recursive functions are those functions in which function call is the last statement to be executed. 
