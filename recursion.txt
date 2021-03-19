@@ -1,2 +1,9 @@
 Function calling itself is called recursive function.
-Tail recursive functions are those functions in which function call is the last statement to be executed. 
+Tail recursive functions are those functions in which function call is the last 
+statement to be executed. 
+
+Depending upon on how function calls itself there exists direct and indirect 
+recursion.
+
+Situation of indirect recursion arise, when function call itself via 
+intermediate function.  
