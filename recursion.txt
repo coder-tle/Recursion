@@ -6,4 +6,7 @@ Depending upon on how function calls itself there exists direct and indirect
 recursion.
 
 Situation of indirect recursion arise, when function call itself via 
-intermediate function.  
+intermediate function.
+
+
+Recursion can be thought as either decisions or as decreasing input.  
